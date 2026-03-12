@@ -141,4 +141,4 @@ This hybrid design improved **robustness and repeatability** during the competit
 
 # System Diagram
 
-*(Add architecture diagram here if available)*
+![Alt Text](architecture_diagram.jpg)
