@@ -16,6 +16,13 @@ The original implementation repository is hosted here:
 
 https://github.com/jnealo32/tne-robotics
 
+## My Contributions
+- Implemented components of the navigation pipeline using ROS2 nodes
+- Integrated sensor data streams for localization and navigation
+- Worked on path planning and obstacle avoidance behavior
+- Debugged navigation failures and improved system stability
+- Conducted simulation experiments and performance evaluation
+
 ---
 
 # Project Overview
